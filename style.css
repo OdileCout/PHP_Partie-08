@@ -1,0 +1,14 @@
+body{
+  padding-top: 15%; 
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: center;
+  background-color: #F2F3F3;
+  color: white;
+}
+
+.btn{
+    background-color: #008C72;
+    margin-top: 20px;
+    color: white;
+}
