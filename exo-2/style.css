@@ -1,0 +1,30 @@
+html, body, div{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+ background-color: #2B3E50; 
+ color: white;
+}
+.firstCont h1{
+    padding-top: 10%;
+    color: #CE6229;
+    font-weight: bold;
+}
+.firstParagraph{
+    padding-top: 20px;
+}
+.border{
+    margin-top: 5%;
+     color: #CE6229;
+     font-size: 1.5em;
+}
+.btn a{
+    color: white;
+}
+.firstCont ul {
+  list-style: none;  
+}
+span{
+    font-size: 0.5em;
+}

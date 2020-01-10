@@ -1,0 +1,31 @@
+html, body, div{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+ color: white;
+}
+.firstCont h1{
+    padding-top: 10%;
+    font-weight: bold;
+}
+.firstParagraph{
+    padding-top: 20px;
+    font-size: 1.5em;
+}
+.border{
+    margin-top: 5%;
+    font-size: 2em;
+}
+.btn a{
+    color: black;
+}
+.firstCont ul {
+  list-style: none;  
+}
+.btn-primary button{
+   
+}
+.firstCont{
+    color: black;
+}
